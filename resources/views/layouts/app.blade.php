@@ -22,7 +22,6 @@
     @include('partials.navbar')
 
 
-
      <!-- SIDEBAR -->
      @include('partials.sidebar')
 
@@ -30,5 +29,9 @@
    
       <!-- FOOTER -->
     @include('partials.footer')
+
+   
+    <!-- SCRIPT pour vuejs -->
+ <script type="text/javascript" src="js/app.js"></script>
     </body>
 </html>
